@@ -1,0 +1,55 @@
+user,date,risk_score,reason,is_malicious
+user07,2026-08-22,100.0,usb_mb (+50.0 sd); file_mb (+50.0 sd); after_hours_events (+50.0 sd),1
+user07,2026-08-30,100.0,usb_mb (+50.0 sd); file_mb (+50.0 sd); after_hours_events (+50.0 sd),1
+user33,2026-08-30,99.6,usb_mb (+50.0 sd); after_hours_events (+49.0 sd); file_mb (+17.5 sd),1
+user33,2026-08-23,99.6,usb_mb (+50.0 sd); after_hours_events (+50.0 sd); file_mb (+30.0 sd),1
+user33,2026-08-29,99.1,usb_mb (+50.0 sd); after_hours_events (+44.0 sd); file_mb (+19.2 sd),1
+user07,2026-08-26,92.1,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user33,2026-08-28,90.1,usb_mb (+50.0 sd); after_hours_events (+41.0 sd); file_mb (+19.0 sd),1
+user19,2026-08-23,90.0,ext_email_mb (+50.0 sd); upload_mb (+50.0 sd); n_ext_emails (+6.4 sd),1
+user07,2026-09-01,89.6,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user33,2026-08-24,89.3,after_hours_events (+50.0 sd); usb_mb (+50.0 sd); file_mb (+29.4 sd),1
+user33,2026-08-27,89.2,usb_mb (+50.0 sd); after_hours_events (+45.0 sd); file_mb (+17.9 sd),1
+user07,2026-08-25,89.2,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user07,2026-08-27,89.0,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user07,2026-08-31,88.9,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user07,2026-08-20,88.8,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user33,2026-08-20,88.8,usb_mb (+50.0 sd); after_hours_events (+47.0 sd); file_mb (+18.3 sd),1
+user33,2026-09-02,88.7,usb_mb (+50.0 sd); after_hours_events (+39.0 sd); file_mb (+17.5 sd),1
+user33,2026-08-25,88.6,usb_mb (+50.0 sd); after_hours_events (+46.0 sd); file_mb (+25.8 sd),1
+user07,2026-09-02,88.5,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user07,2026-08-28,88.4,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user19,2026-08-29,88.4,ext_email_mb (+50.0 sd); upload_mb (+50.0 sd); n_ext_emails (+5.7 sd),1
+user33,2026-09-01,88.2,usb_mb (+50.0 sd); after_hours_events (+44.0 sd); file_mb (+24.3 sd),1
+user07,2026-08-24,88.0,file_mb (+50.0 sd); after_hours_events (+50.0 sd); usb_mb (+50.0 sd),1
+user33,2026-08-31,87.8,after_hours_events (+50.0 sd); usb_mb (+50.0 sd); file_mb (+24.7 sd),1
+user33,2026-08-26,87.6,usb_mb (+50.0 sd); after_hours_events (+41.0 sd); file_mb (+17.7 sd),1
+user19,2026-08-30,87.2,ext_email_mb (+50.0 sd); upload_mb (+50.0 sd); n_ext_emails (+7.8 sd),1
+user42,2026-08-30,83.5,n_files (+50.0 sd); ext_email_mb (+50.0 sd); file_mb (+50.0 sd),1
+user42,2026-08-23,82.0,file_mb (+50.0 sd); ext_email_mb (+50.0 sd); n_files (+45.2 sd),1
+user42,2026-08-22,81.2,n_files (+50.0 sd); ext_email_mb (+50.0 sd); file_mb (+50.0 sd),1
+user42,2026-08-29,81.0,n_files (+50.0 sd); file_mb (+50.0 sd); ext_email_mb (+40.1 sd),1
+user10,2026-07-26,78.1,usb_mb (+4.2 sd),0
+user19,2026-08-31,75.3,ext_email_mb (+50.0 sd); upload_mb (+50.0 sd); n_ext_emails (+10.6 sd),1
+user42,2026-08-20,72.5,n_files (+50.0 sd); ext_email_mb (+50.0 sd); file_mb (+50.0 sd),1
+user19,2026-08-28,72.2,ext_email_mb (+50.0 sd); upload_mb (+50.0 sd); n_ext_emails (+12.0 sd),1
+user19,2026-08-24,71.9,ext_email_mb (+50.0 sd); upload_mb (+50.0 sd); n_uploads (+6.6 sd),1
+user19,2026-08-21,71.7,ext_email_mb (+50.0 sd); upload_mb (+50.0 sd); n_uploads (+9.3 sd),1
+user08,2026-07-14,71.2,overall unusual pattern,0
+user42,2026-08-26,70.8,file_mb (+50.0 sd); ext_email_mb (+50.0 sd); n_files (+45.7 sd),1
+user42,2026-08-24,70.5,n_files (+50.0 sd); file_mb (+50.0 sd); ext_email_mb (+39.0 sd),1
+user19,2026-08-26,70.3,ext_email_mb (+50.0 sd); upload_mb (+50.0 sd); n_uploads (+9.3 sd),1
+user42,2026-09-01,68.7,n_files (+50.0 sd); ext_email_mb (+50.0 sd); file_mb (+50.0 sd),1
+user42,2026-09-03,67.4,n_files (+50.0 sd); file_mb (+50.0 sd); ext_email_mb (+44.6 sd),1
+user42,2026-08-31,67.1,n_files (+50.0 sd); ext_email_mb (+50.0 sd); file_mb (+50.0 sd),1
+user42,2026-09-02,67.1,n_files (+50.0 sd); file_mb (+50.0 sd); ext_email_mb (+42.6 sd),1
+user42,2026-08-21,66.7,n_files (+50.0 sd); ext_email_mb (+50.0 sd); file_mb (+50.0 sd),1
+user08,2026-08-08,66.5,file_mb (+3.4 sd),0
+user42,2026-08-28,66.4,n_files (+50.0 sd); file_mb (+50.0 sd); ext_email_mb (+41.6 sd),1
+user22,2026-07-19,65.8,overall unusual pattern,0
+user08,2026-07-24,62.2,usb_mb (+3.6 sd),0
+user08,2026-07-12,61.2,overall unusual pattern,0
+user35,2026-08-17,58.5,file_mb (+4.0 sd),0
+user08,2026-07-30,56.4,overall unusual pattern,0
+user39,2026-09-02,55.7,usb_mb (+7.9 sd),0
+user01,2026-07-24,55.5,usb_mb (+4.5 sd),0
